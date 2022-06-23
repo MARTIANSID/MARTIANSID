@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [AvSync](https://github.com/mypherhistamine/AVSync)
 
-- 🌱 I’m currently learning **Data Structures**
+- 🌱 I’m currently learning **Go**
 
 - 💬 Ask me about **Data Structures, Flutter,React**
 
