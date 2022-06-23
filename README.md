@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sidharth Bansal</h1>
 <h3 align="center">A passionate Cross Platform App Developer</h3>
 
-- 🔭 I’m currently working on [AvSync](https://github.com/mypherhistamine/AVSync)
+- 🔭 I’m currently working on [AvSync](https://github.com/AVSync-Team/AVSync-Official)
 
 - 🌱 I’m currently learning **Go**
 
