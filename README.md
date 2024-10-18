@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [AvSync](https://github.com/AVSync-Team/AVSync-Official)
 
-- 🌱 I’m currently learning **Go**
+- 🌱 I’m currently implementing **Practical Byzantine Fault Tolerance**
 
-- 💬 Ask me about **Data Structures, Flutter,React**
+- 💬 Ask me about **Data Structures, Distributed Systems**
 
 - 📫 How to reach me **https://www.linkedin.com/in/sidharth-bansal-12ba451b1/**
 
